@@ -101,7 +101,7 @@ a:hover{
     flex-direction: column;
     justify-content: space-between;
     padding: 2rem;
-    background-image: url(/Ressources/endeavor.jpeg);
+    background-image: url(../Ressources/bg.jpg);
     background-size: cover;
     background-position: center;
     color: white;
@@ -174,7 +174,7 @@ a:hover{
 }
 
 .main-page__header {
-    background-image: url(/Ressources/bg.jpg);
+    background-image: url(../Ressources/bg.jpg);
     background-size: cover;
     background-position: center;
     border-bottom: 5px solid orangered;
